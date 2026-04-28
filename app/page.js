@@ -354,7 +354,7 @@ export default function Home() {
 
     try {
       const endpoint = searchTerm.trim()
-        ? `/api/goanime?action=search&q=${encodeURIComponent(searchTerm.trim())}`
+        ? `/api/anilist/search?q=${encodeURIComponent(searchTerm.trim())}`
         : "/api/anilist/trending";
       const response = await fetch(endpoint, { cache: "no-store" });
       const data = await response.json();
@@ -365,7 +365,7 @@ export default function Home() {
       setAnime(items.length ? items.map(normalizeAnime) : fallbackAnime.map(normalizeAnime));
     } catch (err) {
       setError(err.message);
-      setAnime(fallbackAnime.map(normalizeAnime));
+      if (!searchTerm.trim()) setAnime(fallbackAnime.map(normalizeAnime));
     } finally {
       setLoading(false);
     }
@@ -401,7 +401,7 @@ export default function Home() {
       let goAnimeItem = animeToLoad.raw || animeToLoad;
 
       if (!goAnimeItem.URL || goAnimeItem.source === "AniList" || goAnimeItem.Source === "AniList") {
-        const searchResponse = await fetch(`/api/goanime?action=search&q=${encodeURIComponent(goAnimeItem.title || goAnimeItem.Name)}`);
+        const searchResponse = await fetch(`/api/goanime?action=search&q=${encodeURIComponent(goAnimeItem.title || goAnimeItem.Name)}&source=AnimeFire`);
         const searchData = await searchResponse.json();
         if (!searchResponse.ok) throw new Error(searchData?.error || "Nao foi possivel achar esse anime no GoAnime.");
 

@@ -113,47 +113,21 @@ func handleSearch(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	requestedSource := strings.TrimSpace(r.URL.Query().Get("source"))
-	if requestedSource != "" && !isAllSources(requestedSource) {
-		source, err := parseSourceName(requestedSource)
-		if err != nil {
-			writeError(w, http.StatusBadRequest, err.Error())
-			return
-		}
-		results, err := searchSource(query, source)
-		if err != nil {
-			writeError(w, http.StatusBadGateway, err.Error())
-			return
-		}
-		writeJSON(w, http.StatusOK, map[string]any{
-			"source":  canonicalSource(source),
-			"results": results,
-		})
+	source, err := parseSourceName(firstNonEmpty(r.URL.Query().Get("source"), "AnimeFire"))
+	if err != nil {
+		writeError(w, http.StatusBadRequest, err.Error())
 		return
 	}
 
-	sources := []types.Source{types.SourceAnimeFire, types.SourceAllAnime}
-	var allResults []*types.Anime
-	var failures []string
-
-	for _, source := range sources {
-		results, err := searchSource(query, source)
-		if err != nil {
-			failures = append(failures, fmt.Sprintf("%s: %s", canonicalSource(source), err.Error()))
-			continue
-		}
-		allResults = append(allResults, results...)
-	}
-
-	if len(allResults) == 0 {
-		writeError(w, http.StatusBadGateway, "nenhuma fonte respondeu: "+strings.Join(failures, " | "))
+	results, err := searchSource(query, source)
+	if err != nil {
+		writeError(w, http.StatusBadGateway, err.Error())
 		return
 	}
 
 	writeJSON(w, http.StatusOK, map[string]any{
-		"source":   "GoAnime",
-		"warnings": failures,
-		"results":  allResults,
+		"source":  canonicalSource(source),
+		"results": results,
 	})
 }
 
@@ -378,11 +352,6 @@ func parseSourceName(name string) (types.Source, error) {
 	default:
 		return types.ParseSource(name)
 	}
-}
-
-func isAllSources(name string) bool {
-	normalized := strings.ToLower(strings.TrimSpace(name))
-	return normalized == "" || normalized == "all" || normalized == "todos"
 }
 
 func canonicalSource(source types.Source) string {
