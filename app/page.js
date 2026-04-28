@@ -259,7 +259,9 @@ function DetailsPanel({ anime, episodes, episodesLoading, stream, streamLoading,
               <p className="mt-5 max-w-2xl text-sm leading-6 text-white/65">
                 {anime.description
                   ? anime.description.replace(/<[^>]*>/g, "")
-                  : "Dados vindos do AniList. A rota do GoAnime fica preparada para conectar um backend proprio por variavel de ambiente."}
+                  : anime.source === "AniList"
+                    ? "Dados vindos do AniList. Ao carregar episodios, o site procura o mesmo titulo nas fontes GoAnime."
+                    : "Resultado vindo do GoAnime. Carregue os episodios para resolver um stream e abrir o player."}
               </p>
               <div className="mt-7 grid gap-3 sm:grid-cols-3">
                 <div className="rounded-lg border border-white/10 bg-white/[0.04] p-4">
@@ -348,7 +350,7 @@ export default function Home() {
 
     try {
       const endpoint = searchTerm.trim()
-        ? `/api/goanime?action=search&q=${encodeURIComponent(searchTerm.trim())}&source=AnimeFire`
+        ? `/api/goanime?action=search&q=${encodeURIComponent(searchTerm.trim())}`
         : "/api/anilist/trending";
       const response = await fetch(endpoint, { cache: "no-store" });
       const data = await response.json();
@@ -392,10 +394,22 @@ export default function Home() {
     setStream(null);
 
     try {
+      let goAnimeItem = animeToLoad;
+
+      if (!goAnimeItem.URL || goAnimeItem.source === "AniList" || goAnimeItem.Source === "AniList") {
+        const searchResponse = await fetch(`/api/goanime?action=search&q=${encodeURIComponent(goAnimeItem.title || goAnimeItem.Name)}`);
+        const searchData = await searchResponse.json();
+        if (!searchResponse.ok) throw new Error(searchData?.error || "Nao foi possivel achar esse anime no GoAnime.");
+
+        goAnimeItem = searchData.results?.[0];
+        if (!goAnimeItem) throw new Error("Nenhum resultado GoAnime encontrado para esse titulo.");
+        setSelected(normalizeAnime(goAnimeItem));
+      }
+
       const response = await fetch("/api/goanime?action=episodes", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(animeToLoad),
+        body: JSON.stringify(goAnimeItem),
       });
       const data = await response.json();
       if (!response.ok) throw new Error(data?.error || "Nao foi possivel carregar episodios.");
