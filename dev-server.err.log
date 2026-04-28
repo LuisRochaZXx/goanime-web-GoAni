@@ -1,0 +1,460 @@
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+
+
+#
+# Fatal process out of memory: Re-embedded builtins: set permissions
+#
+----- Native stack trace -----
+
+ 1: 00007FF798106F4D node::MultiIsolatePlatform::DisposeIsolate+5341
+ 2: 00007FF79956DAC6 v8::base::FatalOOM+54
+ 3: 00007FF798DFFA86 v8::Function::NewInstance+390
+ 4: 00007FF798C66DFE v8::CppHeap::CollectGarbageInYoungGenerationForTesting+111438
+ 5: 00007FF798C9A3FF SSL_CTX_set_default_read_buffer_len+41247
+ 6: 00007FF798C9AEB2 SSL_CTX_set_default_read_buffer_len+43986
+ 7: 00007FF798C9B892 SSL_CTX_set_default_read_buffer_len+46514
+ 8: 00007FF798797703 v8::internal::Version::GetSONAME+121171
+ 9: 00007FF798E2A946 v8::Isolate::Initialize+662
+10: 00007FF7982C3F3D node::SetIsolateUpForNode+749
+11: 00007FF798015243 RSA_meth_get_flags+223043
+12: 00007FF7980145D9 RSA_meth_get_flags+219865
+13: 00007FF79801DFC0 RSA_meth_get_flags+259264
+14: 00007FF798E54A36 uv_thread_detach+150
+15: 00007FF79A0B5A73 v8::base::UnsignedDivisionByConstant<unsigned __int64>+2907235
+16: 00007FF8DEA6E8D7 BaseThreadInitThunk+23
+17: 00007FF8E07CC48C RtlUserThreadStart+44
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+
+
+
+#
+
+# Fatal process out of memory: Re-embedded builtins: set permissions
+#
+#
+# Fatal process out of memory: Re-embedded builtins: set permissions
+----- Native stack trace -----
+
+#
+ 1: 00007FF798106F4D node::MultiIsolatePlatform::DisposeIsolate+5341
+----- Native stack trace -----
+ 2: 00007FF79956DAC6 v8::base::FatalOOM+54
+
+ 3: 00007FF798DFFA86 v8::Function::NewInstance+390
+ 1: 00007FF798106F4D node::MultiIsolatePlatform::DisposeIsolate+5341
+ 4: 00007FF798C66DFE v8::CppHeap::CollectGarbageInYoungGenerationForTesting+111438
+ 2: 00007FF79956DAC6 v8::base::FatalOOM+54
+ 5: 00007FF798C9A3FF SSL_CTX_set_default_read_buffer_len+41247
+ 3: 00007FF798DFFA86 v8::Function::NewInstance+390
+ 6: 00007FF798C9AEB2 SSL_CTX_set_default_read_buffer_len+43986
+ 4: 00007FF798C66DFE v8::CppHeap::CollectGarbageInYoungGenerationForTesting+111438
+ 7: 00007FF798C9B892 SSL_CTX_set_default_read_buffer_len+46514
+ 5: 00007FF798C9A3FF SSL_CTX_set_default_read_buffer_len+41247
+ 8: 00007FF798797703 v8::internal::Version::GetSONAME+121171
+ 6: 00007FF798C9AEB2 SSL_CTX_set_default_read_buffer_len+43986
+ 9: 00007FF798E2A946 v8::Isolate::Initialize+662
+ 7: 00007FF798C9B892 SSL_CTX_set_default_read_buffer_len+46514
+10: 00007FF7982C3F3D node::SetIsolateUpForNode+749
+ 8: 00007FF798797703 v8::internal::Version::GetSONAME+121171
+11: 00007FF798015243 RSA_meth_get_flags+223043
+ 9: 00007FF798E2A946 v8::Isolate::Initialize+662
+12: 00007FF7980145D9 RSA_meth_get_flags+219865
+10: 00007FF7982C3F3D node::SetIsolateUpForNode+749
+13: 00007FF79801DFC0 RSA_meth_get_flags+259264
+11: 00007FF798015243 RSA_meth_get_flags+223043
+14: 00007FF798E54A36 uv_thread_detach+150
+12: 00007FF7980145D9 RSA_meth_get_flags+219865
+15: 00007FF79A0B5A73 v8::base::UnsignedDivisionByConstant<unsigned __int64>+2907235
+13: 00007FF79801DFC0 RSA_meth_get_flags+259264
+16: 00007FF8DEA6E8D7 BaseThreadInitThunk+23
+14: 00007FF798E54A36 uv_thread_detach+150
+17: 00007FF8E07CC48C RtlUserThreadStart+44
+15: 00007FF79A0B5A73 v8::base::UnsignedDivisionByConstant<unsigned __int64>+2907235
+16: 00007FF8DEA6E8D7 BaseThreadInitThunk+23
+17: 00007FF8E07CC48C RtlUserThreadStart+44
+Error: Can't resolve 'tailwindcss' in 'C:\Users\LuisRochaZX\Documents\Site'
+    [2m[at finishWithoutResolve (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:909:18)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1001:14][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\enhanced-resolve\lib\Resolver.js:1080:5][0m
+    [2m[at eval (eval at create (C:\Users\LuisRochaZX\Documents\Site\goanime-web\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\LuisRochaZX\\Documents\\Site'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\LuisRochaZX\\Documents\\Site or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\LuisRochaZX\\Documents\\Site\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\Documents\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\LuisRochaZX\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+
+<--- Last few GCs --->
+
+[57292:0000017193EFC000]    10191 ms: Scavenge 8.8 (11.9) -> 7.6 (9.9) MB, pooled: 2 MB, 0.83 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF7981B403F node::OnFatalError+1343
+ 2: 00007FF798DFFAA7 v8::Function::NewInstance+423
+ 3: 00007FF798C004D7 v8::base::AddressSpaceReservation::AddressSpaceReservation+322071
+ 4: 00007FF798B98EFB v8::Platform::SystemClockTimeMillis+490523
+ 5: 00007FF798B7094E v8::Platform::SystemClockTimeMillis+325230
+ 6: 00007FF798C02F72 v8::base::AddressSpaceReservation::AddressSpaceReservation+332978
+ 7: 00007FF798C01F27 v8::base::AddressSpaceReservation::AddressSpaceReservation+328807
+ 8: 00007FF798C12E52 v8::internal::StrongRootAllocatorBase::deallocate_impl+15858
+ 9: 00007FF798C1297B v8::internal::StrongRootAllocatorBase::deallocate_impl+14619
+10: 00007FF79A09A2AD v8::base::UnsignedDivisionByConstant<unsigned __int64>+2794653
+11: 00007FF798BFDFA0 v8::base::AddressSpaceReservation::AddressSpaceReservation+312544
+12: 00007FF798C187EA X509_STORE_set_cleanup+5098
+13: 00007FF798C2496F uv_timer_set_repeat+19903
+14: 00007FF798C33E64 uv_timer_set_repeat+82612
+15: 00007FF798C33CA5 uv_timer_set_repeat+82165
+16: 00007FF7987F342D v8::String::Utf8Value::~Utf8Value+130477
+17: 00007FF7987F2F52 v8::String::Utf8Value::~Utf8Value+129234
+18: 00007FF7987F2F91 v8::String::Utf8Value::~Utf8Value+129297
+19: 00007FF7987F1A13 v8::String::Utf8Value::~Utf8Value+123795
+20: 00000171CC6775FA 
+
+
+#
+# Fatal process out of memory: Re-embedded builtins: set permissions
+#
+----- Native stack trace -----
+
+ 1: 00007FF798106F4D 
+ 2: 00007FF79956DAC6 
+ 3: 00007FF798DFFA86 
+ 4: 00007FF798C66DFE 
+ 5: 00007FF798C9A3FF 
+ 6: 00007FF798C9AEB2 
+ 7: 00007FF798C9B892 
+ 8: 00007FF798797703 
+ 9: 00007FF798E2A946 
+10: 00007FF7982C3F3D 
+11: 00007FF798015243 
+12: 00007FF7980145D9 
+13: 00007FF79801DFC0 
+14: 00007FF798E54A36 
+15: 00007FF79A0B5A73 
+16: 00007FF8DEA6E8D7 BaseThreadInitThunk+23
+17: 00007FF8E07CC48C RtlUserThreadStart+44
