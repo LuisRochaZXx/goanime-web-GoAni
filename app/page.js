@@ -129,6 +129,7 @@ function normalizeAnime(item) {
     description: item.description || item.Details?.Description || "",
     goanimeId: item.goanimeId || item.id || null,
     source: item.Source || item.source || "AniList",
+    raw: item,
   };
 }
 
@@ -202,8 +203,11 @@ function AnimeCard({ anime, onOpen }) {
               className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
             />
           ) : (
-            <div className="grid h-full place-items-center bg-slate-900 px-4 text-center text-sm font-bold text-white/50">
-              {anime.title}
+            <div className="grid h-full place-items-center bg-slate-900 px-5 text-center">
+              <div>
+                <p className="text-xs font-black uppercase tracking-wide text-cyan-200">{anime.source}</p>
+                <p className="mt-3 text-sm font-black leading-snug text-white/80">{anime.title}</p>
+              </div>
             </div>
           )}
           <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-black/90 to-transparent" />
@@ -394,7 +398,7 @@ export default function Home() {
     setStream(null);
 
     try {
-      let goAnimeItem = animeToLoad;
+      let goAnimeItem = animeToLoad.raw || animeToLoad;
 
       if (!goAnimeItem.URL || goAnimeItem.source === "AniList" || goAnimeItem.Source === "AniList") {
         const searchResponse = await fetch(`/api/goanime?action=search&q=${encodeURIComponent(goAnimeItem.title || goAnimeItem.Name)}`);
@@ -427,10 +431,11 @@ export default function Home() {
     setPlayerError("");
 
     try {
+      const animePayload = selected.raw || selected;
       const response = await fetch("/api/goanime?action=stream", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ anime: selected, episode, quality: "best", mode: "sub" }),
+        body: JSON.stringify({ anime: animePayload, episode, quality: "best", mode: "sub" }),
       });
       const data = await response.json();
       if (!response.ok) throw new Error(data?.error || "Nao foi possivel resolver o stream.");
